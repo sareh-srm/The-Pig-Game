@@ -1,2 +1,2 @@
-# The-Pig-Game
+# ThePigGame
 Added JavaScript functionality.
